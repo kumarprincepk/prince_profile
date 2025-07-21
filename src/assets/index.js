@@ -22,6 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/techugo.png";
+import velocis from "./company/Velocis.png";
 import shopify from "./company/blue_planet.jpeg";
 import starbucks from "./company/twowaits.jpeg";
 import tesla from "./company/sistmr.png";
@@ -53,6 +54,7 @@ export {
   typescript,
   threejs,
   meta,
+  velocis,
   shopify,
   starbucks,
   tesla,
